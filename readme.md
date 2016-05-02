@@ -1,2 +1,3 @@
-Repo for EPOC App.
-Master in Biomedics Engineer, UPNA 2016
+Master en ingeniería Biomédica.
+
+UPNA 2016
