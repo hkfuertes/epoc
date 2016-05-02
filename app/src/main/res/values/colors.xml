@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="transparentGrey">#11000000</color>
+
+    <color name="snoozeAlarm">#2e7d32</color>
+    <color name="snoozeAlarmDark">#1b5e20</color>
+    <color name="cancelAlarm">#b71c1c</color>
+    <color name="cancelAlarmDark">#3e2723</color>
+    <color name="white">#fff</color>
+
+
+</resources>

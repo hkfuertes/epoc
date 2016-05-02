@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <leccion>
+        <contenido titulo="Anatomía de los pulmones" video="A‐IJDoKYFVk">
+            Esta  lección  consiste  en  entender  el  recorrido  que  hace  el  aire  desde  la  nariz  hasta  los
+            pulmones y lo que sucede cuando el aire llega a los pulmones.
+            La  EPOC  es  una  enfermedad  que  afecta  fundamentalmente  a  los  pulmones.
+            Por  lo  tanto entender  cómo  funcionan  los  pulmones  es  muy  importante.
+            En  primer  lugar  saber  que  el trabajo de los pulmones es hacer que el aire ingrese y salga del cuerpo.
+        </contenido>
+        <pregunta respuesta="false" tipo="boolean">El proceso de ingreso de aire al cuerpo se llama espiración.</pregunta>
+        <pregunta respuesta="true" tipo="boolean">Los capilares transportan la sangre hasta los alveolos.</pregunta>
+        <pregunta respuesta="true" tipo="boolean">El proceso de ingreso de aire al cuerpo (inspiración), permite llevar oxígeno en a la sangre.</pregunta>
+    </leccion>
+
+    <leccion>
+        <contenido titulo="Músculo de la respiración" video="Lv‐EQ0QiZX8">
+            La respiración consiste en la inspiración (el aire ingresa a los pulmones) y la espiración (el aire
+            sale de los pulmones).Para que se den estas dos fases el diafragma cumple una función muy
+            importante.
+            ¿Cómo es el diafragma y cuál es su función?
+            Es un músculo  localizado  debajo de  los pulmones.  Es  el principal músculo  de  la respiración.
+            Durante  la  inspiración  se  contrae  y  se  aplana  produciendo  un  vacío  dentro  del  tórax  y
+            permitiendo que el aire ingrese y el tórax se expanda. En la espiración el diafragma se relaja y
+            recobra su forma normal y el aire es forzado a salir de los pulmones.
+        </contenido>
+        <pregunta respuesta="false" tipo="boolean">El proceso de ingreso de aire al cuerpo se llama espiración.</pregunta>
+        <pregunta respuesta="true" tipo="boolean">Los capilares transportan la sangre hasta los alveolos.</pregunta>
+        <pregunta respuesta="true" tipo="boolean">El proceso de ingreso de aire al cuerpo (inspiración), permite llevar oxígeno en a la sangre.</pregunta>
+    </leccion>
+
+    <leccion>
+        <contenido titulo="¿Qué es la disnea? Efectivos negativos de no hacer ejercicio" video="">
+            La  disnea  es  la sensación  de  falta  de  aire  o  de  ahogo  que  puede  sentir  al  realizar  ciertas
+            actividades como caminar o subir escaleras y que puede aparecer también en reposo.
+            Al realizar ejercicio esta sensación puede aumentar pero no debe limitar su realización, ya que
+            si su actitud es sedentaria experimentará cada vez más disnea.
+            La disminución de la actividad física tiene efectos negativos sobre la calidad de vida y el curso
+            de la enfermedad.  ­ Aumenta  la  cantidad  de  exacerbaciones  (episodios  de  empeoramiento  de  los
+            síntomas) y aumenta la disnea. ­ Provoca pérdida de fuerza de los músculos, mayor gasto de energía, mayor disnea. ­ Necesidad  de  parar  para  descansar  y  utilizar  la medicación  de rescate  cada  vez  con
+            mayor frecuencia.
+        </contenido>
+        <pregunta respuesta="false" tipo="boolean">El proceso de ingreso de aire al cuerpo se llama espiración.</pregunta>
+        <pregunta respuesta="true" tipo="boolean">Los capilares transportan la sangre hasta los alveolos.</pregunta>
+        <pregunta respuesta="true" tipo="boolean">El proceso de ingreso de aire al cuerpo (inspiración), permite llevar oxígeno en a la sangre.</pregunta>
+    </leccion>
+
+</xml>

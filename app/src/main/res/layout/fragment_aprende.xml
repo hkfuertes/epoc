@@ -1,0 +1,108 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.upna.ibio16.epoc.aprende.AprendeFragment">
+
+    <LinearLayout
+        android:id="@+id/aprende_respiracion"
+        android:padding="@dimen/padding"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_width="@dimen/aprende_icon_size"
+            android:layout_height="@dimen/aprende_icon_size"
+            android:gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_menu_camera"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/respiracion"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/aprende_text_size" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/aprende_epoc"
+        android:padding="@dimen/padding"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@color/transparentGrey">
+
+        <ImageView
+            android:layout_width="@dimen/aprende_icon_size"
+            android:layout_height="@dimen/aprende_icon_size"
+            android:gravity="center_vertical"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_menu_camera"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/epoc"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/aprende_text_size" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/aprende_tratamiento"
+        android:padding="@dimen/padding"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+>
+
+        <ImageView
+            android:layout_width="@dimen/aprende_icon_size"
+            android:layout_height="@dimen/aprende_icon_size"
+            android:scaleType="fitCenter"
+            android:gravity="center_vertical"
+            android:src="@drawable/ic_menu_camera"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/tratamiento"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/aprende_text_size" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/aprende_exarcerbaciones"
+        android:padding="@dimen/padding"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@color/transparentGrey">
+
+        <ImageView
+            android:layout_width="@dimen/aprende_icon_size"
+            android:layout_height="@dimen/aprende_icon_size"
+            android:scaleType="fitCenter"
+            android:gravity="center_vertical"
+            android:src="@drawable/ic_menu_camera"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/exarcerbaciones"
+            android:gravity="center_vertical"
+            android:textSize="@dimen/aprende_text_size" />
+
+    </LinearLayout>
+</LinearLayout>

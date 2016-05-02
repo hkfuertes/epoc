@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">EPOC</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aprende">Aprende</string>
+    <string name="alarma">Alarma</string>
+    <string name="ejercicio">Ejercicio</string>
+    <string name="dietas">Dietas</string>
+    <string name="config">Configurar</string>
+    <string name="respiracion">Respiracion</string>
+    <string name="epoc">EPOC</string>
+    <string name="tratamiento">Tratamiento</string>
+    <string name="exarcerbaciones">Exarcerbaciones</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="alarm_message">Alarma</string>
+    <string name="leccion_siguiente_texto">Siguiente</string>
+    <string name="leccion_pregunta_titulo">¡Ponte a Prueba!</string>
+    <string name="leccion_pregunta_boton">Corregir</string>
+    <string name="leccion_pregunta_boton_cancelar">Volver</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Informacion Personal</string>
+    <string name="pref_title_display_name">Nombre</string>
+    <string name="pref_default_display_name">John</string>
+
+    <string name="pref_title_display_lastname">Apellidos</string>
+    <string name="pref_default_display_lastname">Smith</string>
+
+    <string name="pref_date_display">Fecha de Nacimiento</string>
+
+
+    <string name="pref_sexo_display">Sexo</string>
+    <string-array name="pref_user_sex_titles">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string-array name="pref_user_sex_values">
+        <item>h</item>
+        <item>m</item>
+    </string-array>
+
+</resources>
