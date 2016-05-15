@@ -1,2 +1,138 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/internal_impl-23.2.1_2ff211400e7d240f55bda5ac69923e83886fadec.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.2.1_4ecb2262755d753e246d5c3d9a61a025f036f082.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9ef8897d8cbf06102884c84c50ee729f5760e3fa">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.github.Raizlabs.DBFlow-dbflow-3.0.0-beta6_96f366ec52dc8d04ba3aef7af1ef4d343338dd1d.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/guava-18.0_9f1624c22184cf61ad8e2b77a0d233af8bc0a1fc.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/YouTubeAndroidPlayerApi_7864cab9faf1f17502408e8623fa554ffabdf8d5.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/jetbrains/kotlin/kotlin-runtime/1.0.0/kotlin-runtime-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8739b3cd3bf98584cf2d1cabf59b55dbd5f7349d">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/kotlin-runtime-1.0.0_95a0bb5db4380016fc0bd3de84e8f8f7ff1e814b.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/support-annotations-23.2.1_a54ce8bcc975f48055a04b7c768dd368947e0ea3.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.github.satyan-sugar-1.4_2af0192c3ffa863ba572a57ff9f2638f84334696.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-23.2.1_272f42ffe45fdc4ee0777ed30311765c39580750.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.2.1_ad0dbac70db295403b4c3ed141e77eea4e4bd927.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow-kotlinextensions/3.0.0-beta6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6c1ea0e7cd0c50802ee31e8ca81c29ffec3c24b8">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.github.Raizlabs.DBFlow-dbflow-kotlinextensions-3.0.0-beta6_922ea1a28e17d38f19cd8e0c2f514ac618c38539.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-23.2.1_e9ee757c1917e5e37911cfcc866f2f705c583a0d.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow-sqlcipher/3.0.0-beta6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="24389aa478485f3dae29a4063aecd1a35697b002">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.github.Raizlabs.DBFlow-dbflow-sqlcipher-3.0.0-beta6_01c8ded12c12e2e8d2d224cfe27ae3c64b955496.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow-core/3.0.0-beta6/3d1671d848a10db82161501ea57beeee60b6efac/dbflow-core-3.0.0-beta6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3d1671d848a10db82161501ea57beeee60b6efac">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/dbflow-core-3.0.0-beta6_42fa4122f62c1003eed4294eaf2ad9fdd41b9c4f.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/net.zetetic/android-database-sqlcipher/3.3.1-2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="71963ad1a5e10fbe011c24da87de8bbdbda18b73">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/net.zetetic-android-database-sqlcipher-3.3.1-2_38d1b16cd267ed86e5b5f41caaf194c35a614c0f.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.0.0/kotlin-stdlib-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2db5ac6eb2746708e77e4c439625f9331c25e766">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/kotlin-stdlib-1.0.0_059e4f979aac6d6a20d40939683cc9f4bee2a3b7.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.commonsware.cwac/wakeful/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="31ae64abca8056cc6cacc200869b5e0ca82cb8e8">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.commonsware.cwac-wakeful-1.0.5_610a087d138e64166c4b2a16813a4da012dbb605.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.android.support-design-23.2.1_5712cfbe44aa7b7ef265f709d3e84067172b3aad.jar" />
+    </item>
+    <item
+        jar="/Users/hkfuertes/epoc/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/hkfuertes/epoc/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.2.1_ef3ad32840074cbf2cb367a15d25828ae49e29a8.jar" />
+    </item>
+
+</items>
