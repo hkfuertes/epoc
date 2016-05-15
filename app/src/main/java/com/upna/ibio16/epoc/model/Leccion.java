@@ -5,7 +5,8 @@ import com.orm.dsl.Table;
 
 import java.util.List;
 
-public class Leccion{
+public class Leccion extends SugarRecord{
+    public Leccion(){};
     /* My Class */
     public static final String LECCION_TAG = "leccion_tag";
     public String titulo, contenido, video_id;

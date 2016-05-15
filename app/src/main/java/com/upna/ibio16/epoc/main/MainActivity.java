@@ -23,6 +23,8 @@ import com.upna.ibio16.epoc.R;
 import com.upna.ibio16.epoc.alarm.AlarmActivity;
 import com.upna.ibio16.epoc.aprende.AprendeFragment;
 import com.upna.ibio16.epoc.dieta.DietaFragment;
+import com.upna.ibio16.epoc.ejercicio.EjercicioFragment;
+import com.upna.ibio16.epoc.fumar.FumarFragment;
 import com.upna.ibio16.epoc.model.Usuario;
 import com.upna.ibio16.epoc.settings.SettingsActivity;
 
@@ -41,21 +43,9 @@ public class MainActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //startActivity(new Intent(this,YoutubeActivity.class));
-
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        /*
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
-        */
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -82,7 +72,8 @@ public class MainActivity extends AppCompatActivity
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new AprendeFragment(), "APRENDE");
         adapter.addFragment(new DietaFragment(), "DIETA");
-        adapter.addFragment(new TestFragment(), "TEST");
+        adapter.addFragment(new EjercicioFragment(), "DEPORTE");
+        adapter.addFragment(new FumarFragment(), "FUMAR");
         viewPager.setAdapter(adapter);
     }
 
@@ -130,6 +121,7 @@ public class MainActivity extends AppCompatActivity
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            startActivity(new Intent(this, SettingsActivity.class));
             return true;
         }
 
@@ -142,13 +134,7 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-        if (id == R.id.diet) {
-            viewPager.setCurrentItem(1,true);
-        } else if (id == R.id.exercise) {
-
-        } else if (id == R.id.learn) {
-            viewPager.setCurrentItem(0,true);
-        } else if (id == R.id.alarms) {
+        if (id == R.id.alarms) {
             //Intent alarm = new Intent(this, AlarmActivity.class);
             //startActivity(alarm);
             Toast.makeText(this,"Desactivado para que no suene en la biblio.",Toast.LENGTH_SHORT).show();

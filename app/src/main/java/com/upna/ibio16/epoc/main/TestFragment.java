@@ -8,14 +8,10 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.webkit.WebSettings;
 import android.webkit.WebView;
-import android.webkit.WebViewClient;
 import android.widget.Button;
-import android.widget.VideoView;
 
 import com.upna.ibio16.epoc.R;
-import com.upna.ibio16.epoc.video.YoutubeView;
 
 
 public class TestFragment extends Fragment implements View.OnClickListener {
@@ -75,7 +71,7 @@ public class TestFragment extends Fragment implements View.OnClickListener {
         player.start();
         */
 
-        View v = inflater.inflate(R.layout.fragment_test, container, false);
+        View v = inflater.inflate(R.layout.fragment_ejercicio, container, false);
 
         return v;
     }

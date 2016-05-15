@@ -6,6 +6,18 @@
 
     <string name="action_settings">Settings</string>
 
+    <string name="dieta_fragment_placeholder">
+        Aqui podremos encontrar infromación sobre dietas que pueden ser interesantes para controlar la enfermedad.
+    </string>
+
+    <string name="ejercicio_fragment_placeholder">
+        En esta sección encontraremos ejercicios de deporte que nos ayudan a controlar la respiración y mejorar de alguna manera nuestra enfermedad.
+    </string>
+
+    <string name="fumar_fragment_placeholder">
+        Esta sección pretende ser una herramienta para calcular cuanto fumamos o dejamos de fumar, el dinero ahorrado y concienciarnos del peligro del tabaco para nuestra enfermedad.
+    </string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="aprende">Aprende</string>

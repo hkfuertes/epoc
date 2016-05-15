@@ -9,7 +9,13 @@ import java.util.Date;
 import java.util.Locale;
 
 
-public class Usuario {
+public class Usuario extends SugarRecord{
+    public Usuario (){
+        this.nombre = "Maria";
+        this.apellidos = "Fuertes";
+        setFechaNacimiento(new Date());
+        this.sexo = "M";
+    }
     private final String DEFAULT_FORMAT = "EEE MMM dd kk:mm:ss z yyyy";
 
     private String nombre, apellidos;

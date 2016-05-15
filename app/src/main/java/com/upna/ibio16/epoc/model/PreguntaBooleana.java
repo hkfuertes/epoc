@@ -3,7 +3,7 @@ package com.upna.ibio16.epoc.model;
 import com.orm.SugarRecord;
 
 
-public class PreguntaBooleana{
+public class PreguntaBooleana extends SugarRecord{
     public PreguntaBooleana(){}
 
     public String pregunta;

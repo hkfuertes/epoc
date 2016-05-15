@@ -40,7 +40,7 @@ public class LeccionActivity extends AppCompatActivity implements PreguntasView.
         this.setTitle("Aprende EPOC");
 
         lIterator = Leccion.findAll(Leccion.class);
-        if(lIterator != null){
+        if(lIterator == null){
             LeccionImporter.importFromXML(this);
             lIterator = Leccion.findAll(Leccion.class);
         }
